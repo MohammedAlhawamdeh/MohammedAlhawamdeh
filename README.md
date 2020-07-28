@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide experience using Javascript.
+
+I am mainly speiclized on using **MERN** stack.
+
+
 <!--
 **MohammedAlhawamdeh/MohammedAlhawamdeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
