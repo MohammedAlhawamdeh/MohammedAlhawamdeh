@@ -26,27 +26,16 @@ My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide ex
  
 ## 👇 Projects : 
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 JavaScript Mini-Projects</b></td>
-      <td><b>📚 jQuery Mini-Project</b></td>
-      <td><b>⭐ (Node.Js + SQL) Mini Projects</b></td>
-      <td><b>🙌 Html5 & CSS3 & JS Projects</b></td>
-      </tr>
-  </thead>
-  <tbody>
-   <tr>
-	    <td><a href="https://github.com/MohammedAlhawamdeh/overview"><b>About Me (Guessing Game)</b></a></td>
-    </tr>
-   <tr>
-	    <td><a href="https://github.com/MohammedAlhawamdeh/salmon-cookies"><b>Salmon Cookies</b></a></td>
-    </tr>
-   <tr>
-	    <td><a href="https://github.com/MohammedAlhawamdeh/Buss-Mall"><b>Buss-Mall</b></a></td>
-    </tr>
-  </tbody>
-</table>
+	    
+| <b>🎁 JavaScript Mini-Projects</b>  | <b>📚 jQuery Mini-Project</b> |<b>⭐ (Node.Js + SQL) Mini Projects</b>| <b>🙌 Html5 & CSS3 & JS Projects</b>
+| ------------- | ------------- | ------------- | ------------- |
+| <a href="https://github.com/MohammedAlhawamdeh/overview"><b>About Me (Guessing Game)</b></a>  |  | | <a href="https://mohammedalhawamdeh.github.io/CSS-HTML-Project/index.html"><b>CSS3 & Html5 Project</b></a>|  
+| <a href="https://github.com/MohammedAlhawamdeh/salmon-cookies"><b>Salmon Cookies</b></a>  |   |
+|<a href="https://github.com/MohammedAlhawamdeh/Buss-Mall"><b>Buss-Mall</b></a>|
+    
+
+
+
 
 ## 🤔 Algorithms
 
