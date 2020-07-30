@@ -2,6 +2,8 @@
 
 My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide experience using Javascript.
 
+- 🔭 I’m currently working on as a teacher assistant, helping students to overcome their coding fears
+
 
 ## ⚡ Technologies I Use
 
@@ -22,7 +24,45 @@ My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide ex
  <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
  
  
+## 👇 Projects : 
 
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 JavaScript Mini-Projects</b></td>
+      <td><b>📚 jQuery Mini-Project</b></td>
+      <td><b>⭐ (Node.Js + SQL) Mini Projects</b></td>
+      <td><b>🙌 Html5 & CSS3 & JS Projects</b></td>
+      </tr>
+  </thead>
+  <tbody>
+   <tr>
+	    <td><a href="https://github.com/MohammedAlhawamdeh/overview"><b>About Me (Guessing Game)</b></a></td>
+    </tr>
+   <tr>
+	    <td><a href="https://github.com/MohammedAlhawamdeh/salmon-cookies"><b>Salmon Cookies</b></a></td>
+    </tr>
+   <tr>
+	    <td><a href="https://github.com/MohammedAlhawamdeh/Buss-Mall"><b>Buss-Mall</b></a></td>
+    </tr>
+  </tbody>
+</table>
+
+## 🤔 Algorithms
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>💪 Code-Challenges (Algorithms) </b></td>
+   
+ </tr>
+  </thead>
+  <tbody>
+   <tr>
+	    <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/forEach/code-challenges/challenges-01.test.js"><b>For-Each & Call-Backs</b></a></td>
+    </tr>
+  </tbody>
+</table>
 
  ## Contact me on : 
 
@@ -31,17 +71,4 @@ My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide ex
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m.alhawamdeh@ltuc.com)](mailto:m.alhawamdeh@ltuc.com)
 
  
-<!--
-**MohammedAlhawamdeh/MohammedAlhawamdeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on as a teacher assistant, helping students to overcome their coding fears
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
