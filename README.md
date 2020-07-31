@@ -53,6 +53,9 @@ My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide ex
 	 <tr>
 	    <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/value-vs-reference/code-challenges/challenges-02.test.js"><b>Value vs Reference</b></a></td>
     </tr>
+	 <tr>
+	  <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/sort/code-challenges/challenges-03.test.js"><b>Sort</b></a></td>
+    </tr>
   </tbody>
 </table>
 
