@@ -62,6 +62,9 @@ My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide ex
 	 <tr>
 	  <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/Splice-Slice-Join-Split/code-challenegs/challenges-05.test.js"><b>Splice-Slice-Join-Split</b></a></td>
     </tr>
+	 <tr>
+	  <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/Objects/code-challenges/challenges-06.test.js"><b>Objects</b></a></td>
+    </tr>
 	
   </tbody>
 </table>
