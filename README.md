@@ -55,7 +55,14 @@ My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide ex
     </tr>
 	 <tr>
 	  <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/sort/code-challenges/challenges-03.test.js"><b>Sort</b></a></td>
+	</tr>
+		 <tr>
+	  <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/Regular-Expression-Part-1/code-challenges/challenges-04.test.js"><b>Regular-Expression-Part-1</b></a></td>
     </tr>
+	 <tr>
+	  <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/Splice-Slice-Join-Split/code-challenegs/challenges-05.test.js"><b>Splice-Slice-Join-Split</b></a></td>
+    </tr>
+	
   </tbody>
 </table>
 
