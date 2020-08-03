@@ -68,12 +68,15 @@ My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide ex
 		 <tr>
 	  <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/Array-Map/code-challenges/challenges-07.test.js"><b>Array-Map</b></a></td>
     </tr>
+		 <tr>
+	  <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/Array-Filter/code-challenges/challenges-08.test.js"><b>Array-Filter</b></a></td>
+    </tr>
 	
   </tbody>
 </table>
 
 
-
+https://github.com/MohammedAlhawamdeh/Algorithms/blob/Array-Filter/code-challenges/challenges-08.test.js
 
  ## Contact me on : 
 
