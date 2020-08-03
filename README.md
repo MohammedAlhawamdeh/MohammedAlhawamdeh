@@ -65,6 +65,9 @@ My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide ex
 	 <tr>
 	  <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/Objects/code-challenges/challenges-06.test.js"><b>Objects</b></a></td>
     </tr>
+		 <tr>
+	  <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/Array-Map/code-challenges/challenges-07.test.js"><b>Array-Map</b></a></td>
+    </tr>
 	
   </tbody>
 </table>
