@@ -71,6 +71,9 @@ My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide ex
 		 <tr>
 	  <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/Array-Filter/code-challenges/challenges-08.test.js"><b>Array-Filter</b></a></td>
     </tr>
+		 <tr>
+	  <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/Array-Reduce/code-challenges/challenges-09.test.js"><b>Array-Reduce</b></a></td>
+    </tr>
 	
   </tbody>
 </table>
