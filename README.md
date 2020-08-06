@@ -74,6 +74,15 @@ My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide ex
 		 <tr>
 	  <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/Array-Reduce/code-challenges/challenges-09.test.js"><b>Array-Reduce</b></a></td>
     </tr>
+		 <tr>
+	  <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/Chaining-Methods/code-challenges/challenges-10.test.js"><b>Chaining-Methods</b></a></td>
+    </tr>
+		 <tr>
+	  <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/regular-expression-part2/code-challenges/challenges-11.test.js"><b>Regular-Expression-Part-2</b></a></td>
+    </tr>
+		 <tr>
+	  <td><a href="https://github.com/MohammedAlhawamdeh/Algorithms/blob/2d-Array/code-challenges/challenges-12.test.js"><b>Two-Dimensional-Arrays</b></a></td>
+    </tr>
 	
   </tbody>
 </table>
