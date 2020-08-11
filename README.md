@@ -27,12 +27,12 @@ My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide ex
 ## 👇 Projects : 
 
 	    
-| <b>🎁 JavaScript Mini-Projects</b>  |<b>⭐ (Node.Js + SQL) Mini Projects</b>| <b>🙌 Html5 & CSS3 & JS Projects</b>
-| ------------- | ------------- | ------------- | ------------- |
+| <b>🎁 JavaScript Mini-Projects</b> |<b>⭐ (Node.Js + SQL) Mini Projects</b>| <b>🙌 Html5 & CSS3 & JS Projects</b>
+| ------------- | ------------- | ------------- |
 | <a href="https://github.com/MohammedAlhawamdeh/overview"><b>About Me (Guessing Game)</b></a>  |  | | <a href="https://mohammedalhawamdeh.github.io/CSS-HTML-Project/index.html"><b>CSS3 & Html5 Project</b></a> <a href="https://github.com/MohammedAlhawamdeh/CSS-HTML-Project"> <b>(Code)</b></a>|  
 | <a href="https://github.com/MohammedAlhawamdeh/salmon-cookies"><b>Salmon Cookies</b></a>  |   |
-|<a href="https://github.com/MohammedAlhawamdeh/Buss-Mall"><b>Buss-Mall</b></a>| 
-|<a href="https://github.com/MohammedAlhawamdeh/Gallery-of-Horns"</b></a> |
+|<a href="https://github.com/MohammedAlhawamdeh/Buss-Mall"><b>Buss-Mall</b></a>| |
+|<a href="https://github.com/MohammedAlhawamdeh/Gallery-of-Horns"</b></a> | |
 
     
 
