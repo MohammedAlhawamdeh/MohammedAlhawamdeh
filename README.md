@@ -2,9 +2,6 @@
 
 My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide experience using Javascript.
 
-- 🔭 I’m currently working on as a teacher assistant, helping students to overcome their coding fears
-
-
 ## ⚡ Technologies I Use
 
 
