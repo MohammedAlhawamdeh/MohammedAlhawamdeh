@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide experience using Javascript, currently, I am working for AND Digital as an associate developer. 
+My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide experience using Javascript, currently, I am working for <a href="https://www.and.digital/"><b>AND DIGITAL</b></a> as an associate developer. 
 
 ## ⚡ Technologies I Use
 
