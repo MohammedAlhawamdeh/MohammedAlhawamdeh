@@ -26,10 +26,10 @@ My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide ex
 	    
 | <b>🎁 JavaScript Mini-Projects</b> |
 | ------------- |
-| <a href="https://github.com/MohammedAlhawamdeh/overview"><b>About Me (Guessing Game)</b></a>|  
-| <a href="https://github.com/MohammedAlhawamdeh/salmon-cookies"><b>Salmon Cookies</b></a>|   
-|<a href="https://github.com/MohammedAlhawamdeh/Buss-Mall"><b>Buss-Mall</b></a>| 
-|<a href="https://github.com/MohammedAlhawamdeh/Gallery-of-Horns"><b>Gallery-of-Horns</b></a>| 
+| <a href="https://github.com/MohammedAlhawamdeh/golden-shoe"><b>GoldenShoe (eCommerce App)</b></a>|  
+| <a href="https://github.com/MohammedAlhawamdeh/todoapp"><b>TODO APP (PURE JS)</b></a>|   
+|<a href="https://github.com/MohammedAlhawamdeh/coloors"><b>Color Pallete App (PURE JS)</b></a>| 
+|<a href="https://github.com/MohammedAlhawamdeh/cloud-hosting"><b>Cloud Hosting Landing Page (PURE CSS)</b></a>| 
 
 
 
