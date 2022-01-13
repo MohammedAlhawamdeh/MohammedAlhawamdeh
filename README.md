@@ -24,7 +24,7 @@ My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide ex
 ## 👇 Projects : 
 
 	    
-| <b>🎁 JavaScript Mini-Projects</b> |
+| <b>🎁Projects</b> |
 | ------------- |
 | <a href="https://github.com/MohammedAlhawamdeh/golden-shoe"><b>GoldenShoe (eCommerce App)</b></a>|  
 | <a href="https://github.com/MohammedAlhawamdeh/todoapp"><b>TODO APP (PURE JS)</b></a>|   
