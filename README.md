@@ -26,7 +26,7 @@ My name is Mohammed Alhawamdeh and I am a full-stack developer, I have a wide ex
 	    
 | <b>🎁Projects</b> |
 | ------------- |
-| <a href="https://github.com/MohammedAlhawamdeh/golden-shoe"><b>GoldenShoe (eCommerce App)</b></a>|  
+| <a href="https://github.com/MohammedAlhawamdeh/golden-shoe"><b>GoldenShoe (eCommerce MERN App)</b></a>|  
 | <a href="https://github.com/MohammedAlhawamdeh/todoapp"><b>TODO APP (PURE JS)</b></a>|   
 |<a href="https://github.com/MohammedAlhawamdeh/coloors"><b>Color Pallete App (PURE JS)</b></a>| 
 |<a href="https://github.com/MohammedAlhawamdeh/cloud-hosting"><b>Cloud Hosting Landing Page (PURE CSS)</b></a>| 
