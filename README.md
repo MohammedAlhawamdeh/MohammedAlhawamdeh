@@ -32,6 +32,7 @@
 
 | Project | Description |
 | ------ | ----------- |
+| [Kwik Fluency](https://www.kwikfluency.com) | App that helps user to learn English with AI |
 | [Kwik CV](https://www.kwikcv.com) | AI-powered CV builder to create optimized, job-specific resumes |
 | [Golden Shoe](https://github.com/MohammedAlhawamdeh/golden-shoe) | Full-featured eCommerce app using the MERN stack |
 | [TODO App](https://github.com/MohammedAlhawamdeh/todoapp) | Classic task manager built using pure JavaScript |
@@ -49,41 +50,6 @@ I regularly solve coding challenges using JavaScript. Here are a few hand-picked
 - [Regular Expressions - Part 1](https://github.com/MohammedAlhawamdeh/Algorithms/blob/Regular-Expression-Part-1/code-challenges/challenges-04.test.js)
 - [Array Methods: map, filter, reduce, splice](https://github.com/MohammedAlhawamdeh/Algorithms/)
 - [2D Arrays](https://github.com/MohammedAlhawamdeh/Algorithms/blob/2d-Array/code-challenges/challenges-12.test.js)
-
----
-
-## 👔 Experience Highlights
-
-**Software Engineer**  
-📍 *Lloyds Banking Group via AND Digital* (UK, Hybrid)  
-🗓 *Sep 2022 – Jan 2025*  
-- Developed mortgage application UIs with React 18 & TypeScript  
-- Built dynamic form engines using Formik and Redux  
-- Reduced debugging time by 80% via robust error handling and tests
-
-**Associate Product Developer**  
-📍 *AND Digital* (UK, Remote)  
-🗓 *Mar 2022 – Jan 2025*  
-- Created health dashboards with real-time data  
-- Led stakeholder demos and mentored juniors
-
-**Freelance Developer**  
-📍 *Remote – Türkiye*  
-🗓 *Jan 2025 – Present*  
-- Building responsive apps and portfolios for global clients using React & Next.js
-
-**Junior Software Developer**  
-📍 *Luminus Technical University*  
-🗓 *May 2020 – Nov 2020*  
-- Integrated Zoom API into learning system  
-- Reduced mobile UX complaints by 70%
-
----
-
-## 🧾 Education & Certifications
-
-🎓 *Advanced Software Development* – Luminus Technical University College  
-🎓 *Bachelor of Civil Engineering* – Tafila Technical University  
 
 ---
 
