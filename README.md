@@ -56,6 +56,6 @@ I regularly solve coding challenges using JavaScript. Here are a few hand-picked
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alhawamdeh)  
-📧 mohawamdehtech@gmail.com | 📍 Eskişehir, Türkiye
+📧 mohawamdehtech@gmail.com | www.mohawamdeh.tech |📍 Eskişehir, Türkiye
 
 ---
