@@ -1,6 +1,6 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
-  Hey, I'm Mohammed Alhawamdeh — Frontend Engineer
+  Hey, I'm Mohammed Alhawamdeh — Full-Stack Engineer
 </h1>
 
 <p>
